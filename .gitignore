@@ -1,0 +1,17 @@
+# Python
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment & IDE
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/

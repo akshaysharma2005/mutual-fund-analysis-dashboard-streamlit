@@ -5,6 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.66%2B-FF4B4B.svg)](https://streamlit.io)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75.svg)](https://plotly.com)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-MinMaxScaler%20Scoring-F7931E.svg)](https://scikit-learn.org)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/akshaysharma2005/mutual-fund-analysis-dashboard-streamlit)
 
 ---
 
